@@ -1,4 +1,4 @@
-obj-m := tcp_vegas.o
+obj-m := tcp_vegas2.o
 
 PWD:=$(shell pwd)
 KVER:=$(shell uname -r)
